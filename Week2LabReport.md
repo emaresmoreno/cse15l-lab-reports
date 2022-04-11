@@ -44,9 +44,9 @@ look like the picture below)
 
   
 <h2>Setting an SSH Key</h2>
- <p> I began by typing <em><strong>ssh-keygen -t ed25519</strong></em> on the terminal and <em><strong>\Users\Evelyn/.ssh/id_ed25519</strong></em> when propted with <em><strong>Enter file in which to save the key</strong></em>. Then i cliked enter 
+<p> I began by typing <em><strong>ssh-keygen -t ed25519</strong></em> on the terminal and <em><strong>\Users\Evelyn/.ssh/id_ed25519</strong></em> when propted with <em><strong>Enter file in which to save the key</strong></em>. Then i cliked enter 
  each time it asked for a passprase.(After all steps have been completed it will look like the picture below)
- </p>
+</p>
  
  
  ![Screenshot (139)](https://user-images.githubusercontent.com/103283819/162674941-0d4b81cf-1822-42dd-9cc0-38aeb087c5dd.png)
@@ -55,7 +55,7 @@ look like the picture below)
  <h2>Optimizing Remote Running</h2>
  <p> Learning the short cuts for VSCode I tried writting quotes on commands in order for them to run on the remote server and then exit. I also tried the semi clons in between the commands to run several commands at once.
   (example of one in the picture below)
-  </p>
+</p>
   
   
 ![Screenshot (141)](https://user-images.githubusercontent.com/103283819/162681414-74ed04bb-55fa-455d-bbf5-d1d567bcfbb3.png)
