@@ -49,7 +49,7 @@ look like the picture below)
 </p>
  
  
- ![Screenshot (139)](https://user-images.githubusercontent.com/103283819/162674941-0d4b81cf-1822-42dd-9cc0-38aeb087c5dd.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/103283819/162674941-0d4b81cf-1822-42dd-9cc0-38aeb087c5dd.png)
  
  
  <h2>Optimizing Remote Running</h2>
