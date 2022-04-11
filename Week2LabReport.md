@@ -29,6 +29,7 @@ and I typed yes followed by my password.(The image below indicates how it will l
  and many more. Each command has its own result, for example,I wrote <em><strong>ls -lat</strong></em> in the terminal and it showed hidden files, modified files, and files in general. (return for this command is shown in the picture below)
 </p>
 
+
 ![Screenshot (119)](https://user-images.githubusercontent.com/103283819/162676643-6745ce78-6f1a-4d02-9990-daba52a67555.png)
 
   
@@ -38,6 +39,7 @@ Then I logged in using by typing <em><strong>ssh cs15lsp22aeu)@ieng6.ucsd.edu)</
 look like the picture below)
 </p>
 
+
 ![Screenshot (120)](https://user-images.githubusercontent.com/103283819/162676745-fc97e5bc-2f48-480c-a76c-05b53c16ce92.png)
 
   
@@ -46,12 +48,15 @@ look like the picture below)
  each time it asked for a passprase.(After all steps have been completed it will look like the picture below)
  </p>
  
+ 
  ![Screenshot (139)](https://user-images.githubusercontent.com/103283819/162674941-0d4b81cf-1822-42dd-9cc0-38aeb087c5dd.png)
+ 
  
  <h2>Optimizing Remote Running</h2>
  <p> Learning the short cuts for VSCode I tried writting quotes on commands in order for them to run on the remote server and then exit. I also tried the semi clons in between the commands to run several commands at once.
   (example of one in the picture below)
   </p>
+  
   
   ![Screenshot (141)](https://user-images.githubusercontent.com/103283819/162677973-dd891b52-dec4-4b83-aacc-a01eb061820f.png)
 
