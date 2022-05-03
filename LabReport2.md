@@ -1,5 +1,12 @@
 <h1>Error: No end parenthesis </h1>
 
+https://github.com/emaresmoreno/markdown-parser/blob/main/testfile3.md
+
+
+![Screenshot (182)](https://user-images.githubusercontent.com/103283819/166411833-ae2a2674-65b6-4177-954a-038030f22909.png)
+
+
+
 <p> The bug is that the code never stops running. The symptom is a StringIndexOutOFBoundsException error and the failure-inducing
  input is a link without closing parenthesis. All together it results with the code continuously running as it looks for the end parenthesis of the link; since 
  its not found by the time it reaches length 96 it returns an error saying that its out of bounds.
@@ -22,6 +29,11 @@
 ![Screenshot (165)](https://user-images.githubusercontent.com/103283819/165014214-b875b78e-18f2-47ba-8d25-d138a4736fe0.png)
 
 <h1>Error: Images</h1>
+
+https://github.com/emaresmoreno/markdown-parser/blob/main/testfile2.md
+
+![Screenshot (180)](https://user-images.githubusercontent.com/103283819/166411577-871803a4-8839-4b21-a01b-b3c47efdf6bc.png)
+
 <p> The bug is that it reads the image as a link. The symptom is that it returns the image as a link and the failure-inducing input is adding a image as an input. All 
  together the code reads the image link and incorrectly returns it as part of the link list. 
 </p>
@@ -42,6 +54,12 @@
 ![Screenshot (169)](https://user-images.githubusercontent.com/103283819/165019665-56200d58-83d6-4823-92c8-f40d8eec75db.png)
 
 <h1>Error:Just a comment </h1>
+
+<https://github.com/emaresmoreno/markdown-parser/blob/main/testfile1.md>
+
+![Screenshot (176)](https://user-images.githubusercontent.com/103283819/166410046-dbc84a6e-2533-4b62-8d3b-7a06c20d782c.png)
+
+
 <p> The bug is that it goes through all the code in search of a starting and ending bracket and starting and ending parenthesis. The symptoms is a StringINdexOutOfBoundsException
  and the failure-inducing input is a comment or string without any ending and closing brackets and parenthesis. All together the codes goes through all the code and returns and error 
  indicating that they are not found and returns an error.
