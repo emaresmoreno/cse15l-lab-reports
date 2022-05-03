@@ -2,7 +2,6 @@
 
 <https://github.com/emaresmoreno/markdown-parser/blob/main/testfile3.md>
 
-
 ![Screenshot (182)](https://user-images.githubusercontent.com/103283819/166411833-ae2a2674-65b6-4177-954a-038030f22909.png)
 
 
