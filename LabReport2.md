@@ -1,6 +1,6 @@
 <h1>Error: No end parenthesis </h1>
 
-https://github.com/emaresmoreno/markdown-parser/blob/main/testfile3.md
+<https://github.com/emaresmoreno/markdown-parser/blob/main/testfile3.md>
 
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/103283819/166411833-ae2a2674-65b6-4177-954a-038030f22909.png)
@@ -30,7 +30,7 @@ https://github.com/emaresmoreno/markdown-parser/blob/main/testfile3.md
 
 <h1>Error: Images</h1>
 
-https://github.com/emaresmoreno/markdown-parser/blob/main/testfile2.md
+<https://github.com/emaresmoreno/markdown-parser/blob/main/testfile2.md>
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/103283819/166411577-871803a4-8839-4b21-a01b-b3c47efdf6bc.png)
 
