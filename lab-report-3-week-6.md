@@ -10,6 +10,8 @@
 ![Screenshot 2022-05-16 191956](https://user-images.githubusercontent.com/103283819/168715175-56640f0c-4cbb-4f42-8531-9776013da708.png)
 
 <h2>Settingup Github Access from ieng6 </h2>
+<p>Using Github Access allows the coder to easily commit, clone, push, ect in the terminal without the need of constantly going into Github 
+ desktop. This means it is more efficient and less time consuming.</p>
  
  
 [commit link](https://github.com/emaresmoreno/markdown-parser/commit/44ab4e07716e54ca190fa57dde21e6732fd2b0f6)
