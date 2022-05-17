@@ -11,9 +11,11 @@
 
 
 <h2>Settingup Github Access from ieng6 </h2>
-<p>This seems a little harder as you need both a public and a private key. However working with github and knowing where they are stored'
- and how to create one seemed more straight to the point.
+<p>Using Github Access allows the coder to easily commit, clone, push, ect in the terminal without the need of constantly going into Github 
+ desktop. This means it is more efficient and less time consuming. 
  <p/>
+ 
+ <https://github.com/emaresmoreno/markdown-parser/commit/44ab4e07716e54ca190fa57dde21e6732fd2b0f6>
 
 ![Screenshot 2022-05-16 193700](https://user-images.githubusercontent.com/103283819/168717073-e8c1c6d2-2e0e-4ec1-afe1-29eae0acc0a5.png)
 
@@ -23,14 +25,13 @@
 
 ![Screenshot 2022-05-16 193138](https://user-images.githubusercontent.com/103283819/168716400-22b42b13-7f84-43cd-81ba-ededc588bc5e.png)
 
-<https://github.com/emaresmoreno/markdown-parser/commit/44ab4e07716e54ca190fa57dde21e6732fd2b0f6>
 
 
 
 
 <h2>Copy whole directories with scp -r</h2>
-<p> This option does not need for you to go to a different website or page which makes it a little less complicated. The complicated part is 
-  correctly copying the whole directory. 
+<p> This form allows us to do multiple things at once, like cloning, logging into eign6, and testing code all in one go. This can very benefitial as it
+ reduces time, but it can also be very prone to spelling mistakes and other small errors.
  <p/>
 
 ![Screenshot 2022-05-16 194315](https://user-images.githubusercontent.com/103283819/168717582-a88b3139-b0cb-44f2-9522-49dd5356f8c6.png)
