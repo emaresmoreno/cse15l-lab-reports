@@ -24,8 +24,7 @@
 
 <h2>Copy whole directories with scp -r</h2>
 <p> This form allows us to do multiple things at once, like cloning, logging into eign6, and testing code all in one go. This can very benefitial as it
- reduces time, but it can also be very prone to spelling mistakes and other small errors.
- </p>
+ reduces time, but it can also be very prone to spelling mistakes and other small errors.</p>
 
 ![Screenshot 2022-05-16 194315](https://user-images.githubusercontent.com/103283819/168717582-a88b3139-b0cb-44f2-9522-49dd5356f8c6.png)
 
