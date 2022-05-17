@@ -9,7 +9,6 @@
 
 ![Screenshot 2022-05-16 191956](https://user-images.githubusercontent.com/103283819/168715175-56640f0c-4cbb-4f42-8531-9776013da708.png)
 
-
 <h2>Settingup Github Access from ieng6 </h2>
 <p>Using Github Access allows the coder to easily commit, clone, push, ect in the terminal without the need of constantly going into Github 
  desktop. This means it is more efficient and less time consuming. 
@@ -19,15 +18,9 @@
 
 ![Screenshot 2022-05-16 193700](https://user-images.githubusercontent.com/103283819/168717073-e8c1c6d2-2e0e-4ec1-afe1-29eae0acc0a5.png)
 
-
 ![Screenshot 2022-05-16 192153](https://user-images.githubusercontent.com/103283819/168715405-d50fdf2f-a8f5-47a1-8f95-992f8e2da8fc.png)
 
-
 ![Screenshot 2022-05-16 193138](https://user-images.githubusercontent.com/103283819/168716400-22b42b13-7f84-43cd-81ba-ededc588bc5e.png)
-
-
-
-
 
 <h2>Copy whole directories with scp -r</h2>
 <p> This form allows us to do multiple things at once, like cloning, logging into eign6, and testing code all in one go. This can very benefitial as it
